@@ -12,6 +12,14 @@ A continuación, se presentan los enlaces para instalar Docker en diferentes sis
     Windows: https://docs.docker.com/desktop/install/windows-install/
     Linux:   https://docs.docker.com/desktop/install/linux-install/
 
+
+
+# Flask 
+
+Flask es un microframework web de Python que se utiliza para construir aplicaciones web de manera rápida y sencilla. Un microframework es un tipo de framework ligero que proporciona las herramientas esenciales para desarrollar aplicaciones web
+   
+    Documentación: https://flask.palletsprojects.com/en/2.3.x/
+
 # Ejecutar la API utilizando Docker
 
 Una vez que hayas instalado Docker, puedes ejecutar el siguiente comando para levantar el contenedor con la API en Flask:
