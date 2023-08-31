@@ -20,6 +20,11 @@ Flask es un microframework web de Python que se utiliza para construir aplicacio
    
     Documentación: https://flask.palletsprojects.com/en/2.3.x/
 
+# Clonar el repositorio
+
+    git clone https://github.com/bkoscar/prueba.git
+    cd prueba
+
 # Ejecutar la API utilizando Docker
 
 Una vez que hayas instalado Docker, puedes ejecutar el siguiente comando para levantar el contenedor con la API en Flask:
