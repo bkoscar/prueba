@@ -16,13 +16,12 @@ A continuación, se presentan los enlaces para instalar Docker en diferentes sis
 
 Una vez que hayas instalado Docker, puedes ejecutar el siguiente comando para levantar el contenedor con la API en Flask:
 
-    ``` docker-compose up --build
-    ```
+    docker-compose up --build
+    
 
 # Realizar pruebas
 
 Después de que el servicio esté en funcionamiento, puedes realizar pruebas utilizando el archivo de Python testing.py con el siguiente comando:
 
-
-    ```python3 testing.py
-    ```
+    python3 testing.py
+    
