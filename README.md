@@ -8,21 +8,21 @@ Instalar Docker
 
 A continuación, se presentan los enlaces para instalar Docker en diferentes sistemas operativos:
 
-    MacBook: Instrucciones de instalación en Mac
-    Windows: Instrucciones de instalación en Windows
-    Linux: Instrucciones de instalación en Linux
+    MacBook: https://docs.docker.com/desktop/install/mac-install/
+    Windows: https://docs.docker.com/desktop/install/windows-install/
+    Linux:   https://docs.docker.com/desktop/install/linux-install/
 
 # Ejecutar la API utilizando Docker
 
 Una vez que hayas instalado Docker, puedes ejecutar el siguiente comando para levantar el contenedor con la API en Flask:
 
-``` docker-compose up --build
- ```
+    ``` docker-compose up --build
+    ```
 
 # Realizar pruebas
 
 Después de que el servicio esté en funcionamiento, puedes realizar pruebas utilizando el archivo de Python testing.py con el siguiente comando:
 
 
-``` python3 testing.py
- ```
+    ```python3 testing.py
+    ```
